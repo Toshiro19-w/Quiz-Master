@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bba89d3c4166b354f9ebed360fc7118d, type: 3}
+  m_Name: Question 1
+  m_EditorClassIdentifier: 
+  question: "1. Ai l\xE0 t\xE1c gi\u1EA3 c\u1EE7a t\xE1c ph\u1EA9m \"Truy\u1EC7n
+    Ki\u1EC1u\"?"
+  answers:
+  - "A. Nguy\u1EC5n Du"
+  - "B. Nguy\u1EC5n Tr\xE3i"
+  - "C. H\u1ED3 Xu\xE2n H\u01B0\u01A1ng"
+  - "D. T\u1ED1 H\u1EEFu"
+  correctAnswerIndex: 0
