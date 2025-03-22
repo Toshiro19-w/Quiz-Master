@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bba89d3c4166b354f9ebed360fc7118d, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: "2. \u0110\xE2u l\xE0 nguy\xEAn t\u1ED1 h\xF3a h\u1ECDc c\xF3 k\xFD hi\u1EC7u
+  question: "\u0110\xE2u l\xE0 nguy\xEAn t\u1ED1 h\xF3a h\u1ECDc c\xF3 k\xFD hi\u1EC7u
     \"O\"?"
   answers:
-  - "A. S\u1EAFt"
-  - "B. V\xE0ng"
-  - "C. B\u1EA1c"
-  - D. Oxy
+  - "S\u1EAFt"
+  - "V\xE0ng"
+  - "B\u1EA1c"
+  - Oxy
   correctAnswerIndex: 3

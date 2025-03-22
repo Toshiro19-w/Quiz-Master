@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bba89d3c4166b354f9ebed360fc7118d, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: "5. Ng\xF4n ng\u1EEF l\u1EADp tr\xECnh n\xE0o \u0111\u01B0\u1EE3c s\u1EED
+  question: "Ng\xF4n ng\u1EEF l\u1EADp tr\xECnh n\xE0o \u0111\u01B0\u1EE3c s\u1EED
     d\u1EE5ng ph\u1ED5 bi\u1EBFn \u0111\u1EC3 ph\xE1t tri\u1EC3n \u1EE9ng d\u1EE5ng
     Android?"
   answers:
-  - A. C++
-  - B. Swift
-  - C. Java
-  - D. Python
+  - C++
+  - Swift
+  - Java
+  - Python
   correctAnswerIndex: 2

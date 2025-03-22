@@ -15,8 +15,8 @@ MonoBehaviour:
   question: "Giao th\u1EE9c n\xE0o \u0111\u01B0\u1EE3c s\u1EED d\u1EE5ng \u0111\u1EC3
     truy\u1EC1n t\u1EA3i d\u1EEF li\u1EC7u tr\xEAn World Wide Web (WWW)?"
   answers:
-  - A. FTP
-  - B. HTTP
-  - C. DNS
-  - D. SMTP
+  - FTP
+  - HTTP
+  - DNS
+  - SMTP
   correctAnswerIndex: 1

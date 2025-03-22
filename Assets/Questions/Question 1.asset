@@ -12,11 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bba89d3c4166b354f9ebed360fc7118d, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: "1. Ai l\xE0 t\xE1c gi\u1EA3 c\u1EE7a t\xE1c ph\u1EA9m \"Truy\u1EC7n
-    Ki\u1EC1u\"?"
+  question: "Ai l\xE0 t\xE1c gi\u1EA3 c\u1EE7a t\xE1c ph\u1EA9m \"Truy\u1EC7n Ki\u1EC1u\"?"
   answers:
-  - "A. Nguy\u1EC5n Du"
-  - "B. Nguy\u1EC5n Tr\xE3i"
-  - "C. H\u1ED3 Xu\xE2n H\u01B0\u01A1ng"
-  - "D. T\u1ED1 H\u1EEFu"
+  - "Nguy\u1EC5n Du"
+  - "Nguy\u1EC5n Tr\xE3i"
+  - "H\u1ED3 Xu\xE2n H\u01B0\u01A1ng"
+  - "T\u1ED1 H\u1EEFu"
   correctAnswerIndex: 0
